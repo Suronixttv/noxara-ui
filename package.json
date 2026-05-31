@@ -11,12 +11,12 @@
     "build-storybook": "storybook build"
   },
   "devDependencies": {
-    "@storybook/web-components-vite": "latest",
-    "storybook": "latest",
-    "vite": "latest"
+    "@storybook/web-components-vite": "10.4.1",
+    "storybook": "10.4.1",
+    "vite": "8.0.14"
   },
   "dependencies": {
-    "lit": "latest"
+    "lit": "3.3.3"
   },
   "engines": {
     "node": ">=20.19.0"
