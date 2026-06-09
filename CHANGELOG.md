@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-06-09
+
 ## Fixed
     - Now the Fine Acess Token has the corrct perrmission to publish Release contents
 
